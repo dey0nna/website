@@ -1,6 +1,6 @@
 body {
   font-family: 'Zen Maru Gothic', sans-serif;
-  font-size:50%;
+  font-size:100%;
   margin: 0;
   padding: 0;
 }
@@ -19,7 +19,7 @@ body {
   padding: 1em;
 }
 .setumei｛
- 　text-align:center
+ 　text-align:center;
 }
 h1 {
  font-family: 'Mochiy Pop P One', sans-serif;
