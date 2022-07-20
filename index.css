@@ -4,6 +4,7 @@ body {
   padding: 0;
 }
 .header {
+  border: 4px double #ff838b;
   background-color: white;
   padding: 0 .5em;
 }
