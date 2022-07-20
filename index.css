@@ -1,5 +1,5 @@
 body {
-  font-family: 'Mochiy Pop P One', sans-serif;
+  font-family:sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -16,7 +16,7 @@ body {
   padding: 1em;
 }
 h1 {
-font-family: 'Anton', sans-serif;
+ font-family: 'Mochiy Pop P One', sans-serif;
   font-size: 250%;
   margin: 0 0;
   padding: .5em 0;
